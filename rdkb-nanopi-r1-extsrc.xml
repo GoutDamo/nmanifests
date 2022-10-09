@@ -8,7 +8,6 @@
     <remote name="openembedded" fetch="https://git.openembedded.org" review=""/>
     <default remote="cmf" revision="rdkb-2022q2-dunfell" sync-j="2"/>
     <include name="oe-layers.xml"/>
-    <project name="Santhosh360/meta-sunxi" remote="github" path="meta-sunxi" revision="dunfell"/>
     <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" path="meta-cmf-bsp-emulator"/>
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="meta-rdk-bsp-emulator"/>
     <project name="components/generic/rdk-oe/meta-cmf-96boards" path="meta-cmf-96boards"/>
@@ -31,7 +30,7 @@
     <project name="rdk/components/generic/rdk-oe/meta-cmf" path="meta-cmf"/>
     <project name="rdk/components/generic/rdk-oe/meta-cmf-broadband" path="meta-cmf-broadband"/>
     <project name="rdk/components/generic/rdk-oe/meta-cmf-mesh" path="meta-cmf-mesh"/>
-    <project name="rdk/components/generic/rdk-oe/meta-cmf-raspberrypi" path="meta-nanopi-r1" revision="hackathon2022/team-broadbanddenovo"/>
+    <project name="rdk/components/generic/rdk-oe/meta-cmf-raspberrypi" path="meta-cmf-raspberrypi"/>
     <project name="rdk/components/generic/rdk-oe/meta-rdk" path="meta-rdk"/>
     <project name="rdk/components/generic/rdk-oe/meta-rdk-broadband" path="meta-rdk-broadband"/>
     <project name="rdk/components/generic/rdk-oe/meta-rdk-ext" path="meta-rdk-ext"/>
