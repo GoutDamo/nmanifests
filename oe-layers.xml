@@ -7,7 +7,6 @@
     <project name="rdk/components/opensource/oe/meta-openembedded" path="meta-openembedded" revision="rdkb-2022q2-dunfell"/>
     <project name="rdk/components/opensource/oe/meta-python2" path="meta-python2" revision="rdkb-2022q2-dunfell"/>
     <project name="rdk/components/opensource/oe/meta-qt5" path="meta-qt5" revision="rdkb-2022q2-dunfell"/>
-    <project name="rdk/components/opensource/oe/meta-raspberrypi" path="meta-raspberrypi" revision="rdkb-2022q2-dunfell"/>
     <project name="rdk/components/opensource/oe/meta-rtlwifi" path="meta-rtlwifi" revision="rdkb-2022q2-dunfell"/>
     <project name="rdk/components/opensource/oe/meta-virtualization" path="meta-virtualization" revision="rdkb-2022q2-dunfell"/>
     <project name="rdk/components/opensource/oe/openembedded-core" path="openembedded-core" revision="rdkb-2022q2-dunfell"/>
